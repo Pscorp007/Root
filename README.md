@@ -27,6 +27,7 @@ Run cmake and make
 
 Setup and run ROOT
 Can also run build.sh file to automate the process:
+
     $ source bin/thisroot.sh
     $ root
  
