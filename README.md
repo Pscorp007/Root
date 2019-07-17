@@ -1,9 +1,8 @@
 # Root
 Aim of the Project was to analyse CERN sample data presented in CSV form.
-A Cpp Program was deployed Using the CERN's opensource library Root, Root is required to present data in presentable
-format for the users to analyze.
+A Cpp Program was deployed Using the CERN's opensource library Root,The ROOT system provides a set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. It also provides a good environment to learn C++.
 Key Learnings:
-1. Root Library through (CPP)
+1. Root Library through (C++)
 2. Bash scripting
 3. Scrapping Data from CSV files and Analyse it through a Program written in CPP
 4. Data Presentation using Tgraphs,histograms,Graphs etc.
