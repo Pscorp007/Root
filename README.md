@@ -9,6 +9,11 @@ Key Learnings:
 4. Data Presentation using Tgraphs,histograms,Graphs etc.
 5. Problem Solving, Basic Understanding of how physics problems are solved through Data Points only.
 
+## Navigation in Repo:
+1. MainCode: contains the main cPP code running
+2. Final Project folder contains sample run of the project using less data,because orignal data contains several gbs of file 
+size.
+2. learning(my simple documentation): conatins the resources and help material created by me for future references, Contains whole process of learning with comments add where ever required, newbies may find it helpful though root library website has  far better resources. 
 
 ## Building
 Clone the repo
