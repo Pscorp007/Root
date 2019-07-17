@@ -9,5 +9,25 @@ Key Learnings:
 4. Data Presentation using Tgraphs,histograms,Graphs etc.
 5. Problem Solving, Basic Understanding of how physics problems are solved through Data Points only.
 
-# Results are Presented: below in Graphical format:
+
+## Building
+Clone the repo
+
+    $ git clone https://github.com/root-project/root.git
+
+Make a directory for building
+
+    $ mkdir build
+    $ cd build
+
+Run cmake and make
+
+    $ cmake ../root
+    $ make -j8
+
+Setup and run ROOT
+Can also run build.sh file to automate the process:
+    $ source bin/thisroot.sh
+    $ root
+ 
 
