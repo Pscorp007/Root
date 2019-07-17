@@ -34,5 +34,5 @@ Can also run build.sh file to automate the process:
 
 ## FINAL RESULT :
 
-![Please Reload the page Image is not shown](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Please Reload the page Image is not shown](https://github.com/Pscorp007/Root/blob/master/Result/completeResult.png)
 
