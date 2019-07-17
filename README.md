@@ -32,3 +32,7 @@ Can also run build.sh file to automate the process:
     $ root
  
 
+## FINAL RESULT :
+
+![Please Reload the page Image is not shown](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
